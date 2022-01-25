@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://zulfikar321.github.io/Easybank-landing-page/
 
 
 
@@ -18,7 +18,7 @@ Your users should be able to:
 ### Screenshot
 ![easybank-ss1](https://github.com/zulfikar321/Easybank-landing-page/blob/main/SS/easybank-ss1.png?raw=true)
 ![easybank-ss2](https://github.com/zulfikar321/Easybank-landing-page/blob/main/SS/easybank-ss2.png?raw=true)
-
+![easybank-ss3](https://github.com/zulfikar321/Easybank-landing-page/blob/main/SS/easybank-ss3.png?raw=true)
 
 
 ## My process
