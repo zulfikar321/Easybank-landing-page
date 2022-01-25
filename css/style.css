@@ -369,7 +369,6 @@ footer {
   }
   .bg-header-wrapper {
     position: absolute;
-    outline: 1px solid red;
     width: 50%;
     height: 800px;
     top: 0;
@@ -438,7 +437,7 @@ footer {
     text-align: end;
   }
   .footer-wrapper {
-    width: 70%;
+    width: 60%;
     margin: auto;
     display: grid;
     gap: 30px;
