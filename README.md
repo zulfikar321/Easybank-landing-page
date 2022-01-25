@@ -16,8 +16,8 @@ Your users should be able to:
 
 
 ### Screenshot
-![ecommerce1](https://github.com/zulfikar321/E-commerce-product-page-challenge-hub/blob/main/ScreenSchot/Ecommerce1.png?raw=true)
-![ecommerce2](https://github.com/zulfikar321/E-commerce-product-page-challenge-hub/blob/main/ScreenSchot/Ecommerce2.png?raw=true)
+![easybank-ss1](https://github.com/zulfikar321/Easybank-landing-page/blob/main/SS/easybank-ss1.png?raw=true)
+![easybank-ss2](https://github.com/zulfikar321/Easybank-landing-page/blob/main/SS/easybank-ss2.png?raw=true)
 
 
 
