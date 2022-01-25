@@ -48,7 +48,7 @@ body {
   font-size: 18px;
 }
 .container {
-  max-width: 1440px;
+  max-width: 1200px;
   margin: auto;
 }
 
@@ -361,7 +361,7 @@ footer {
     text-align: start;
   }
   .header-wrapper {
-    width: 1440px;
+    width: 1200px;
     margin: auto;
   }
   .header-content {
@@ -393,11 +393,11 @@ footer {
     margin: 0;
   }
   .section-content-wrapper {
-    gap: 10px;
+    gap: 3px;
     justify-content: space-between;
   }
   .section-content {
-    width: 330px;
+    width: 280px;
     text-align: start;
     margin: 0;
   }
@@ -410,12 +410,12 @@ footer {
     text-align: start;
   }
   .article-content-wrapper {
-    gap: 10px;
-    margin-bottom: 30px;
+    gap: 3px;
+    margin-bottom: 100px;
     justify-content: space-between;
   }
   .article-content {
-    width: 330px;
+    width: 280px;
     height: 600px;
     text-align: start;
     margin: 0;
