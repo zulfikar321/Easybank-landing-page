@@ -394,8 +394,7 @@ footer {
   }
   section {
     text-align: start;
-    margin-top: 0;
-    margin: 0 0 0 0;
+    margin: 0 0 0;
   }
   .section-heading {
     width: 50%;
